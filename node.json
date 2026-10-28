@@ -1,0 +1,12 @@
+{
+  "name": "Horloge cadran Leclerc V3",
+  "permissions": {},
+  "options": [
+    {
+      "title": "Afficher la trotteuse (aiguille des secondes)",
+      "name": "trotteuse",
+      "type": "boolean",
+      "default": true
+    }
+  ]
+}
